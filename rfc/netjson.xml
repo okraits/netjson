@@ -512,7 +512,7 @@
                     <c>cpu</c><c>string</c><c>CPU specification</c>
                 </texttable>
             </section>
-            <section title="Operating Sytem Object" anchor="operating_system1">
+            <section title="Operating System Object" anchor="operating_system1">
                 <t>
                     The <spanx style="em">"operating_system"</spanx> object of
                     <spanx style="em">DeviceConfiguration</spanx>
